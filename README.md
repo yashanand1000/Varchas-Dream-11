@@ -17,5 +17,4 @@ An android app where participants create a team of real players for an upcoming 
 5. Click on the Clone button and you are done
 
 ## Credits
-* [Gaurav Sen](https://github.com/VortexExpansion)
-* [Chinmay Borale](https://github.com/bchinmay-star)
+* [Yash Anand](https://github.com/yashanand1000)
